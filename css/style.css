@@ -1,0 +1,15 @@
+.logo{
+    width: 100px;
+    height: 60px;
+}
+#btn1{
+    background : orange;
+    color: black;
+    font-weight: 600;
+    border-radius: 20px;
+
+}
+.btn2{
+    padding-left: 70px;
+    padding-right: 0;
+}
